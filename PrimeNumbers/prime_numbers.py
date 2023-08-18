@@ -13,3 +13,6 @@ def prime_numbers(n: int) -> List[int]:
     """
 
     return []
+
+
+# https://leetcode.com/problems/count-primes/

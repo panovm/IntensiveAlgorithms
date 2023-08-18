@@ -10,3 +10,6 @@ def eight_queens() -> List[List[int]]:
     """
 
     return []
+
+
+# https://leetcode.com/problems/n-queens/

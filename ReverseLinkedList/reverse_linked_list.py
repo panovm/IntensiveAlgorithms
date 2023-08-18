@@ -17,3 +17,6 @@ def reverse_linked_list(node: Node) -> None:
     """
 
     return
+
+
+# https://leetcode.com/problems/reverse-linked-list/

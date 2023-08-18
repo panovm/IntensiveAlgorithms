@@ -14,3 +14,7 @@ def binary_search(value: int, array: List[int]) -> int:
     """
 
     return 0
+
+
+# https://leetcode.com/problems/binary-search/
+# https://leetcode.com/problems/search-insert-position/

@@ -13,3 +13,6 @@ def merge_sort(array: List[int]) -> List[int]:
     """
 
     return []
+
+
+# https://leetcode.com/problems/sort-an-array/

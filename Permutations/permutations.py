@@ -13,3 +13,6 @@ def permutations(n: int) -> List[List[int]]:
     """
 
     return []
+
+
+# https://leetcode.com/problems/permutations/
