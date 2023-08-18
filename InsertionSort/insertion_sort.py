@@ -12,7 +12,11 @@ def insertion_sort(array: List[int]) -> List[int]:
         List[int]: sorted array
     """
 
-    return []
+    for i in range(len(array)):
+        for j in range(i-1, -1, -1):
+            if array[j+1] < array[j]:
+                array[j + 1], array[j] = array[j], array[j + 1]
+    return array
 
 
 # https://leetcode.com/problems/sort-colors/
